@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+S8_calib-clean.ipynb
+
 # C extensions
 *.so
 
